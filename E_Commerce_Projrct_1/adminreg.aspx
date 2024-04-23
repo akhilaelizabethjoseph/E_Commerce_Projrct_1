@@ -421,7 +421,9 @@
         <td>&nbsp;</td>
     </tr>
     <tr>
-        <td class="auto-style2"></td>
+        <td class="auto-style2">
+            <asp:HyperLink ID="HyperLink1" runat="server" Font-Bold="False" Font-Italic="True" Font-Size="Large" NavigateUrl="~/viewfeedbackpg.aspx">View FeedBack</asp:HyperLink>
+        </td>
         <td class="auto-style4"></td>
         <td class="auto-style6"></td>
         <td class="auto-style2"></td>
